@@ -1,0 +1,14 @@
+:root {
+  background-color: purple;
+  padding: 3em;
+}
+
+body {
+  background-color: lightblue;
+  padding: 1.5em;
+  color: white;
+}
+
+.red {
+  color: red;
+}
